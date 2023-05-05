@@ -10,7 +10,6 @@
 @import PerformanceBezier;
 #import "ClippingBezier.h"
 #import "UIBezierPath+Clipping_Private.h"
-#import "UIBezierPath+Ahmed.h"
 #import "UIBezierPath+Clipping.h"
 #import "UIBezierPath+Trimming.h"
 #include "NearestPoint.h"

@@ -23,8 +23,6 @@
 #import "DKUIBezierPathShape.h"
 #import "UIBezierPath+Intersections.h"
 #import "UIBezierPath+Trimming.h"
-#import "UIBezierPath+Ahmed.h"
-#import "UIBezierPath+Util.h"
 @import PerformanceBezier;
 #import "ClippingBezier.h"
 
